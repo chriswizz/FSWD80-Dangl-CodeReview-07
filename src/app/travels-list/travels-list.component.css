@@ -1,0 +1,11 @@
+img {
+  width: 100%;
+  height: 20vh;
+  object-fit: cover;
+}
+
+.card-text {
+  height: 6em;
+  line-height: 1.5em;
+  overflow: hidden;
+}
